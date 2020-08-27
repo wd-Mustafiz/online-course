@@ -1,0 +1,27 @@
+
+.banner{
+    background: url('./banner.jpg') ;
+    position: relative;
+    background-position: center;
+    height: 52vh;
+    width: 100% ;
+}
+.banner-box{
+    background: rgb(226, 226, 226);
+    width: 400px;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    box-shadow: 1px 1px 30px rgb(28, 162, 162);
+    border: 1px solid teal;
+    padding: 20px;
+    border-radius: 8px
+    
+}
+h1{
+    color: rgb(45, 45, 45);
+    
+}
+h3{
+    color: rgb(121, 121, 121);
+}
